@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vetapalem
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning django
-- 💞️ I’m looking to collaborate on developers | making of web pages
+- 🌱 - 💞️ I’m looking to collaborate on developers | making of web pages
 - 📫 How to reach me i don't know
 
 <!---
